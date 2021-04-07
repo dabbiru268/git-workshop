@@ -14,6 +14,6 @@
   * pikachu
     * teddy
       * barbie
-  2. hi friends
-    3. bye friends
-      4. gud night friends
+ 2. hi friends
+   3. bye friends
+     4. gud night friends

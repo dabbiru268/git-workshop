@@ -10,3 +10,10 @@
 ***italic and bold***
 [google](www.google.com)
 ![picture](https://tse1.mm.bing.net/th?id=OIP.nt7c0dpFGXiiXJm9v46n1gHaNL&pid=Api&P=0&w=300&h=300)
+* doremon
+  * pikachu
+    * teddy
+      * barbie
+  2. hi friends
+    3. bye friends
+      4. gud night friends
